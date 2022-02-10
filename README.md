@@ -2,7 +2,7 @@
 
 Este es mi lugar <b>ESPECIAL ❤️</b> donde puedes ver todos mis proyecto!💼</br>
 Tambien puedes ver mis trabajos en mi <b>[PORTFOLIO](https://electromilitary45.github.io/portfolio.github.io/)</b>.</br>
-<img src="https://images.hive.blog/p/4i88GgaV8qiFkxbnGCXnHPUK3daVLCQA4oDc4ixremQTf5Q5g6iHgYaAG46jzfzqmNNfgS65Hbczhy3KgubRkZTQ5LSMSVprppMLX1qGXpAL5uSBe7FgzfWCCM?format=match&mode=fit" alt="" width="" height="">
+<img src="https://images.hive.blog/p/4i88GgaV8qiFkxbnGCXnHPUK3daVLCQA4oDc4ixremQTf5Q5g6iHgYaAG46jzfzqmNNfgS65Hbczhy3KgubRkZTQ5LSMSVprppMLX1qGXpAL5uSBe7FgzfWCCM?format=match&mode=fit" >
 </br>
 - 🧿 Linkedin: <a href=https://www.linkedin.com/in/villalobossebas/>Sebastian Villalobos</a>
 - ♻️ LinkTree: <a href=https://linktr.ee/_villalobossebas_>Sebastian Villalobos</a>
