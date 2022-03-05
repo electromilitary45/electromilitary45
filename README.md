@@ -10,6 +10,22 @@ Tambien puedes ver mis trabajos en mi <b>[PORTFOLIO](https://electromilitary45.g
 - 🧸 Me encanta aprender cosas nuevas sobre programacion, tecnologia, etc.👾
 - 🥄 Mi comida favorita es el arroz con pollo 🍗🍚.
 - ⚙️ Me encanta el backend. ✏️
-- 
-![Electro GitHub stats](https://github-readme-stats.vercel.app/api?username=electromilitary45&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=electromilitary45&layout=compact&theme=radical)](https://github.com/electromilitary45/github-readme-stats)
+
+<table>
+  <thead>
+    <tr>
+      <th>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=electromilitary45&show_icons=true&theme=radical" />
+        </a>
+      </th>
+      <th>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=electromilitary45&layout=compact&theme=radical" />
+        </a>
+      </th>
+    </tr>
+  </thead>
+</table>
+
+
