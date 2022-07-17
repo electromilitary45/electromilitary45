@@ -6,7 +6,7 @@ Tambien puedes ver mis trabajos en mi <b>[PORTFOLIO](https://electromilitary45.g
 </br>
 - 🧿 Linkedin: <b><a href=https://www.linkedin.com/in/villalobossebas/>Sebastian Villalobos</a></b>
 - 🌴 LinkTree: <b><a href=https://linktr.ee/_villalobossebas_>Sebastian Villalobos</a></b>
-- 🎈 Actualmente estoy estudiando Ing. en Sistemas de Computacion 👨🏾‍💻 en la <b><a href= https://ufidelitas.ac.cr>Universidad Fidelitas</a></b>👨🏾‍🎓.</br>
+- 🎈 Actualmente estoy estudiando Ing. en Sistemas de Computacion 👨🏾‍💻 en la Universidad Fidelitas 👨🏾‍🎓.</b></br>
 - 🧸 Me encanta aprender cosas nuevas sobre programacion, tecnologia, etc.👾
 - 🥄 Mi comida favorita es el arroz con pollo 🍗🍚.
 - ⚙️ Me encanta el backend. ✏️
