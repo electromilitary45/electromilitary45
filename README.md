@@ -1,5 +1,5 @@
 <h1>Hola 🙋🏾‍♂</h1> 
-![Profile views](https://gpvc.arturio.dev/[electromilitary45])
+![Profile views](https://gpvc.arturio.dev/electromilitary45)
 
 Este es mi lugar <b>ESPECIAL ❤️</b> donde puedes ver todos mis proyectos!💼</br>
 Tambien puedes ver mis trabajos en mi <b>[PORTFOLIO](https://electromilitary45.github.io/portfolio.github.io/)</b>.</br>
