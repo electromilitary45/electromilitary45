@@ -16,12 +16,12 @@ Este es mi lugar <b>ESPECIAL ❤️</b> donde puedes ver todos mis proyectos!�
     <tr>
       <th>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=electromilitary45&show_icons=true&theme=radical" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=electromilitary45&show_icons=true&theme=radical" width="500"/>
         </a>
       </th>
       <th>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=electromilitary45&layout=compact&theme=radical" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=electromilitary45&layout=compact&theme=radical" width="380"/>
         </a>
       </th>
     </tr>
