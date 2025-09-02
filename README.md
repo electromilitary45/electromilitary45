@@ -5,7 +5,7 @@ Este es mi lugar <b>ESPECIAL</b> donde puedes ver todos mis proyectos!💼</br>
 </br>
 - 🧿 Linkedin: <b><a href=https://www.linkedin.com/in/villalobossebas/>Derek Leiva</a></b>
 - 🌴 LinkTree: <b><a href=https://linktr.ee/_villalobossebas_>Derek Leiva</a></b>
-- 🎈 Actualmente estoy estudiando Ing. en Sistemas de Computacion 👨🏾‍💻 en la Universidad Fidelitas 👨🏾‍🎓.</b></br>
+- 🎈 Soy Ing. en Sistemas de Computacion 👨🏾‍💻, graduado de la Universidad Fidelitas 👨🏾‍🎓.</b></br>
 - 🧸 Me encanta aprender cosas nuevas sobre programacion, tecnologia, etc.👾
 - 🥄 Mi comida favorita es el arroz con pollo 🍗🍚.
 - ⚙️ Me encanta el backend. ✏️
